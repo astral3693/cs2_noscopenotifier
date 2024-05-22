@@ -1,4 +1,4 @@
-﻿using CounterStrikeSharp.API.Core;
+using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API;
 
 namespace NoScopeNotifier;
@@ -111,14 +111,7 @@ public class NoScopeNotifier : BasePlugin
             }
         }
 
-        if (@event.Noscope == true)
-        {
-            attacker.PrintToChat($" \x0E• \x04{attacker.PlayerName}\x01 no-scopes *type of no-scope*, nailing \x04{victim.PlayerName}\x01 from {formattedDistance}\x04 meters!");
-            attacker.PrintToChat($" \x0E •\x01 Insane Quickshot! \x04{attacker.PlayerName}\x01 obliterated\x04 {victim.PlayerName}\x01 from {formattedDistance}\x04 meters!");
-            attacker.PrintToChat($" \x0E •\x01 Incredible Skill! \x04{attacker.PlayerName}\x01 vaporized\x04 {victim.PlayerName}\x01 from {formattedDistance}\x04 meters!");
-            attacker.PrintToChat($" \x0E •\x01 Unbelievable Hail Mary! \x04{attacker.PlayerName}\x01 annihilated\x04 {victim.PlayerName}\x01 from {formattedDistance}\x04 meters!");
-        }
-            return HookResult.Continue;
+        return HookResult.Continue;
     }
 
     public List<CCSPlayerController> GetPlayers()
