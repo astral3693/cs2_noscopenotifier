@@ -1,0 +1,12 @@
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\bin\Debug\net8.0\NoScopeNotifier.deps.json
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\bin\Debug\net8.0\NoScopeNotifier.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\bin\Debug\net8.0\NoScopeNotifier.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.csproj.AssemblyReference.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.AssemblyInfoInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.AssemblyInfo.cs
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.csproj.CoreCompileInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\refint\NoScopeNotifier.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\NoScopeNotifier.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\cs2_noscopenotifier-update1.2\obj\Debug\net8.0\ref\NoScopeNotifier.dll
