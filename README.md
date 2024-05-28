@@ -20,6 +20,9 @@ mm_extra_addons 3241525034
 [Frozen_Elsa](https://github.com/astral3693/Frozen_Elsa/tree/main "Frozen_Elsa")
 
 Name => "Frozen_Elsa";
+
 ModuleAuthor => "Astral & kenoxyd laser custom";
+
 ModuleDescription => "Adds Grenades Special Effects.";
+
 ModuleVersion => "V. 2.1.3";
