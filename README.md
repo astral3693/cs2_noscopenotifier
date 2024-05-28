@@ -14,6 +14,7 @@ Module of Argentum Framework to display No-Scope messages in chat. [Standalone]
 [MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager "MultiAddonManager") 
 
 [WorkShop](https://steamcommunity.com/sharedfiles/filedetails/?id=3241525034 "WorkShop")
-      mm_extra_addons 3241525034
 
-[cs2_noscopenotifier](https://github.com/astral3693/cs2_noscopenotifier "cs2_noscopenotifier")
+mm_extra_addons 3241525034
+
+[Frozen_Elsa](https://github.com/astral3693/Frozen_Elsa/tree/main "Frozen_Elsa")
