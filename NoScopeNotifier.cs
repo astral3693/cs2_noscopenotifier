@@ -10,7 +10,7 @@ public class NoScopeNotifier : BasePlugin
 {
     public override string ModuleName => "No Scope Notifier [Argentum Module]";
     public override string ModuleDescription => "NoScope Notifier - Extracted from Argentum framework - https://steamcommunity.com/id/kenoxyd";
-    public override string ModuleAuthor => "kenoxyd";
+    public override string ModuleAuthor => "kenoxyd & Astral Custom Lang";
     public override string ModuleVersion => "1.1.0";
 
     internal static IStringLocalizer? Stringlocalizer;
