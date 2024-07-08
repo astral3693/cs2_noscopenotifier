@@ -15,7 +15,9 @@ Module of Argentum Framework to display No-Scope messages in chat. [Standalone]
 
 [WorkShop](https://steamcommunity.com/sharedfiles/filedetails/?id=3241525034 "WorkShop")
 
-mm_extra_addons 3241525034
+mm_extra_addons "3241525034,3244596709"
+steamcommunity https://steamcommunity.com/id/amauri-007/myworkshopfiles/
+
 # Opsioneel
 [Frozen_Elsa](https://github.com/astral3693/Frozen_Elsa/tree/main "Frozen_Elsa")
 
